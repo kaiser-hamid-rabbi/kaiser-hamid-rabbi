@@ -26,7 +26,7 @@ Welcome to my Github page! Data Structures, Algorithms, Machine Learning, and Ar
 - Once upon a time, football was my passion. Used to play in Defensive Midfield position. Enjoy watching the English Premier League and a die-hard LIVERPOOL fan.
 
 
-<img align="middle" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="center" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 <sub>Copyright (c) 2021 Kaiser Hamid Rabbi. All rights reserved.</sub>
