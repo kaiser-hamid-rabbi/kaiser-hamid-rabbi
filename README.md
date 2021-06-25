@@ -28,6 +28,11 @@ I was born in Chattogram, which is the port city of our country. My school and c
 
 
 
+
+
+
+
+
 #### ⚽ FOOTBALLER | DEFENSIVE MIDFIELDER: 
 - Once upon a time, football was my passion. Used to play in Defensive Midfield position. Enjoy watching the English Premier League and a die-hard LIVERPOOL fan.
 
