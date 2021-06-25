@@ -36,4 +36,4 @@ I was born in Chattogram, which is the port city of our country. My school and c
 #### 📷 GRAPHICS DESIGN | PHOTOGRAPHY: 
 - Enjoy working on Graphics Designing, Typography, Video Editing, and Photography in my free time. I spent my leisure time doing this to stimulate my creativity!
 
-<img align="left" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/football.png" width="48%" height="auto" /><img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/graphics-design.jpg" width="48%" height="auto" />
+<img align="left" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/football.png" width="47%" height="auto" /><img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/graphics-design.jpg" width="47%" height="auto" />
