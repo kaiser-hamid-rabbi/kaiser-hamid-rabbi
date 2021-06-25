@@ -13,14 +13,10 @@ I would characterize myself as both a Computer Scientist and a Machine Learning 
 I was born in Chattogram, which is the port city of our country. My school and college were Chattogram Collegiate School and Haji Mohammad Moshin College. I finished my graduation in Computer Science and Engineering from Ahsanullah University of Science and Technology. I also participated in the Master's program in Data and Knowledge Engineering at Otto-von-Guericke University.
 
 
-
-
-
 #### ⌨️ TOUCH TYPING MASTER | 100+ WPM: 
 - MEGARACER badge holder in TypeRacer.com. Can type 100+ words per minute! Keyboard: Royal Kludge Sink87G Mechanical Brown Switches.
 
 <img align="center" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/touch-type.png" width="100%" height="100%" />
-
 
 
 #### 🚴 CYCLIST | BIKER: 
@@ -29,11 +25,12 @@ I was born in Chattogram, which is the port city of our country. My school and c
 <img align="center" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/bike.jpg" width="100%" height="100%" />
 
 
+#### 📷 GRAPHICS DESIGN | PHOTOGRAPHY: 
+- Enjoy working on Graphics Designing, Typography, Video Editing, and Photography in my free time. I spent my leisure time doing this to stimulate my creativity!
+
 
 #### ⚽ FOOTBALLER | DEFENSIVE MIDFIELDER: 
 - Once upon a time, football was my passion. Used to play in Defensive Midfield position. Enjoy watching the English Premier League and a die-hard LIVERPOOL fan.
 
-#### 📷 GRAPHICS DESIGN | PHOTOGRAPHY: 
-- Enjoy working on Graphics Designing, Typography, Video Editing, and Photography in my free time. I spent my leisure time doing this to stimulate my creativity!
 
-<img align="left" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/football.png" width="47%" height="auto" /><img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/graphics-design.jpg" width="47%" height="auto" />
+<img align="left" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/graphics-design.jpg" width="47%" height="auto" /><img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/football.png" width="47%" height="auto" />
