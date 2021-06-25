@@ -6,6 +6,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kaiser-hamid-rabbi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaiserhamidrabbi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kaiser.hamid.rabbi@gmail.com)
+
 I would characterize myself as both a Computer Scientist and a Machine Learning Engineer and in the past, I’ve tried many things before finding my way, before finding my passions. I’m an Autodidact. So, I learned a lot by myself. I self-teach a lot. I am always curious about - what I don't know? and always push myself to the limit. I love Mathematics and Theoretical Physics. Always enjoy solving any kind of puzzles. Last but not least, Programming is very near and dear to my heart!
 I was born in Chattogram, which is the port city of our country. My school and college were Chattogram Collegiate School and Haji Mohammad Moshin College. I finished my graduation in Computer Science and Engineering from Ahsanullah University of Science and Technology. I also participated in the Master's program in Data and Knowledge Engineering at Otto-von-Guericke University.
 
