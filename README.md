@@ -23,7 +23,7 @@ I was born in Chattogram, which is the port city of our country. My school and c
 #### 🚴 CYCLIST | BIKER: 
 - I love Cycling and Biking! An active member of both the BDCYCLYST group and the BD Riderz Club in Bangladesh. Cycle: UPLAND Spyker-100, Bike: YAMAHA FZS V3.
 
-<img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/bike.jpg" width="40%" height="40%" />
+<img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/bike.jpg" width="70%" height="40%" />
 
 
 
