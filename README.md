@@ -14,7 +14,10 @@ I was born in Chattogram, which is the port city of our country. My school and c
 
 
 
-<img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/touch-type.png" width="100%" height="100%" />
+<img align="center" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/touch-type.png" width="100%" height="100%" />
+
+
+
 
 #### ⌨️ TOUCH TYPING MASTER | 100+ WPM: 
 - MEGARACER badge holder in TypeRacer.com. Can type 100+ words per minute! Keyboard: Royal Kludge Sink87G Mechanical Brown Switches.
