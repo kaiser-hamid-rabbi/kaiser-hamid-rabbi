@@ -28,7 +28,7 @@ I was born in Chattogram, which is the port city of our country. My school and c
 #### 🚴 CYCLIST | BIKER: 
 - I love Cycling and Biking! An active member of both the BDCYCLYST group and the BD Riderz Club in Bangladesh. Cycle: UPLAND Spyker-100, Bike: YAMAHA FZS V3.
 
-<img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/football.png" width="40%" height="40%" />
+<img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/football.png" width="70%" height="40%" />
 
 #### ⚽ FOOTBALLER | DEFENSIVE MIDFIELDER: 
 - Once upon a time, football was my passion. Used to play in Defensive Midfield position. Enjoy watching the English Premier League and a die-hard LIVERPOOL fan.
