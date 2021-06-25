@@ -29,4 +29,4 @@ Welcome to my Github page! Data Structures, Algorithms, Machine Learning, and Ar
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+<sub>Copyright (c) 2021 Kaiser Hamid Rabbi. All rights reserved.</sub>
