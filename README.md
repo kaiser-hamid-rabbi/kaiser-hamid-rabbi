@@ -12,8 +12,6 @@ I was born in Chattogram, which is the port city of our country. My school and c
 
 Welcome to my Github page! Data Structures, Algorithms, Machine Learning, and Artificial Intelligence learner. Generally positively charged! Curious about LYGOMETRY (Things we do not know)
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
 
 #### ⌨️ TOUCH TYPING MASTER | 100+ WPM: 
 - MEGARACER badge holder in TypeRacer.com. Can type 100+ words per minute! Keyboard: Royal Kludge Sink87G Mechanical Brown Switches.
@@ -27,6 +25,8 @@ Welcome to my Github page! Data Structures, Algorithms, Machine Learning, and Ar
 #### ⚽ FOOTBALLER | DEFENSIVE MIDFIELDER: 
 - Once upon a time, football was my passion. Used to play in Defensive Midfield position. Enjoy watching the English Premier League and a die-hard LIVERPOOL fan.
 
+
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
