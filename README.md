@@ -1,7 +1,7 @@
 <h2 align="center">Hello World!</h2>
 <h2 align="center">This is Kaiser Hamid Rabbi. Software Engineer @ TigerIT Bangladesh Limited.</h2>
 
-<img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/intro.jpg" width="20%" height="20%" />
+<img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/intro.jpg" width="25%" height="25%" />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kaiser-hamid-rabbi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaiserhamidrabbi/)
@@ -14,7 +14,7 @@ I was born in Chattogram, which is the port city of our country. My school and c
 
 
 
-<img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/touch-type.png" width="40%" height="40%" />
+<img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/touch-type.png" width="70%" height="70%" />
 
 #### ⌨️ TOUCH TYPING MASTER | 100+ WPM: 
 - MEGARACER badge holder in TypeRacer.com. Can type 100+ words per minute! Keyboard: Royal Kludge Sink87G Mechanical Brown Switches.
