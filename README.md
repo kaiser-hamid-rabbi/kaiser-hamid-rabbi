@@ -19,10 +19,6 @@ I was born in Chattogram, which is the port city of our country. My school and c
 #### ⌨️ TOUCH TYPING MASTER | 100+ WPM: 
 - MEGARACER badge holder in TypeRacer.com. Can type 100+ words per minute! Keyboard: Royal Kludge Sink87G Mechanical Brown Switches.
 
-<img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/graphics-design.jpg" width="40%" height="40%" />
-
-#### 📷 GRAPHICS DESIGN | PHOTOGRAPHY: 
-- Enjoy working on Graphics Designing, Typography, Video Editing, and Photography in my free time. I spent my leisure time doing this to stimulate my creativity!
 
 <img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/bike.jpg" width="40%" height="40%" />
 
@@ -33,6 +29,14 @@ I was born in Chattogram, which is the port city of our country. My school and c
 
 #### ⚽ FOOTBALLER | DEFENSIVE MIDFIELDER: 
 - Once upon a time, football was my passion. Used to play in Defensive Midfield position. Enjoy watching the English Premier League and a die-hard LIVERPOOL fan.
+
+
+
+<img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/graphics-design.jpg" width="40%" height="40%" />
+
+#### 📷 GRAPHICS DESIGN | PHOTOGRAPHY: 
+- Enjoy working on Graphics Designing, Typography, Video Editing, and Photography in my free time. I spent my leisure time doing this to stimulate my creativity!
+
 
 
 <sub>Copyright (c) 2021 Kaiser Hamid Rabbi. All rights reserved.</sub>
