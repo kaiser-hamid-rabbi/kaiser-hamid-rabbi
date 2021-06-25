@@ -30,4 +30,4 @@ I was born in Chattogram, which is the port city of our country. My school and c
 - Once upon a time, football was my passion. Used to play in Defensive Midfield position. Enjoy watching the English Premier League and a die-hard LIVERPOOL fan.
 
 
-<img align="left" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/graphics-design.jpg" width="47%" height="auto" /><img align="right" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/football.png" width="47%" height="auto" />
+<img align="center" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/gd-football.png" width="100%" height="100%" />
