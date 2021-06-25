@@ -14,7 +14,7 @@ I was born in Chattogram, which is the port city of our country. My school and c
 
 
 #### ⌨️ TOUCH TYPING MASTER | 100+ WPM: 
-- MEGARACER badge holder in TypeRacer.com. Can type 100+ words per minute! Keyboard: Royal Kludge Sink87G Mechanical Brown Switches.
+- MEGARACER badge holder in typeracer.com, keybr.com and 10fastfingers.com. Can type 100+ words per minute! My all time top speed beats 99.3% of all other people in the world. Keyboard: Royal Kludge Sink87G Mechanical Brown Switches.
 
 <img align="center" alt="img" src="https://github.com/kaiser-hamid-rabbi/kaiser-hamid-rabbi.github.io/blob/master/images/touch-type.png" width="100%" height="100%" />
 
