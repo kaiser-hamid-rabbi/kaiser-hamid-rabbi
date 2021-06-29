@@ -6,7 +6,7 @@
 
 Hello World! This is Kaiser Hamid Rabbi, Software Engineer @ TigerIT Bangladesh Limited. Data Structures, Algorithms, Machine Learning, and Artificial Intelligence learner. Generally positively charged! Curious about LYGOMETRY (Things we do not know).
 
-I would characterize myself as both a Computer Scientist and a Machine Learning Engineer and in the past, I’ve tried many things before finding my way, before finding my passions. I’m an Autodidact. So, I learned a lot by myself. I self-teach a lot. I am always curious about - what I don't know? and always push myself to the limit. I love Mathematics and Theoretical Physics. Always enjoy solving puzzle. Last but not least, Programming is very near and dear to my heart!
+I would characterize myself as both a Computer Scientist and a Machine Learning Engineer. I’m an Autodidact. So, I learned a lot by myself. I self-teach a lot. I am always curious about - what I don't know? and always push myself to the limit. I love Mathematics and Theoretical Physics and always enjoy solving puzzle. Last but not least, Programming is very near and dear to my heart!
 
 
 #### ⌨️ TOUCH TYPING MASTER | 100+ WPM: 
