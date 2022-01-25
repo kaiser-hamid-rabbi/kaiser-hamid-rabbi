@@ -3,9 +3,22 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaiserhamidrabbi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kaiser.hamid.rabbi@gmail.com)
 
-Hello World! This is Kaiser Hamid Rabbi, Software Engineer @ TigerIT Bangladesh Limited. Working hard to learn the rules of Software Engineering like a pro, so that I can break them like an artist! Generally positively charged! Curious about LYGOMETRY (Things we do not know).
+Hello, Universe! This is Kaiser Hamid Rabbi, Software Engineer in the Machine Learning team
+at TigerIT which focuses on Biometric Research and end-to-end credential management
+solutions. I am generally positively charged and always try to learn my lessons the hard way. I
+would characterize myself as both a Computer Scientist and a Machine Learning Engineer and
+in the past, I’ve tried many things before finding my way, before finding my passions. I’m an
+Autodidact. So, I learned a lot by myself. I self-teach a lot. I am always curious about - what I
+don't know? (LYGOMETRY) and always push myself to the limit. Mathematics, Theoretical
+Physics, and Astronomy are three of my subjects of interest. Last but not least, Programming is
+very near and dear to my heart!
 
-I would characterize myself as both a Computer Scientist and a Machine Learning Engineer and in the past, I’ve tried many things before finding my way, before finding my passions. I’m an Autodidact. So, I learned a lot by myself. I self-teach a lot. I am always curious about - what I don't know? and always push myself to the limit. I love Mathematics and Theoretical Physics. Always enjoy solving puzzle. Last but not least, Programming is very near and dear to my heart! 
+I also call myself an eclectic reader. I am not an academic researcher but a synthesizer of
+information from different resources. I assimilate my ideas and information based on my own
+experience. I spend most of my time reading computer science books, research papers, technical
+blog posts, listening to educational podcasts, watching numerous lectures online on subjects of
+my interest, and reading self-help books to reshape myself as a highly effective and better
+human being.
 
 
 #### ⌨️ TOUCH TYPING MASTER | 100+ WPM: 
