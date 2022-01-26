@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kaiser.hamid.rabbi@gmail.com)
 
 Hello, Universe! This is Kaiser Hamid Rabbi, Software Engineer in the Machine Learning team
-at TigerIT which focuses on Biometric Research and end-to-end credential management
+at TigerIT focuses on Biometric Research and end-to-end credential management
 solutions. I am generally positively charged and always try to learn my lessons the hard way. I
 would characterize myself as both a Computer Scientist and a Machine Learning Engineer and
 in the past, I’ve tried many things before finding my way, before finding my passions. I’m an
