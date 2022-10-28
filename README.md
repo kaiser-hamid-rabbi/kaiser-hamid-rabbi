@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaiserhamidrabbi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kaiser.hamid.rabbi@gmail.com)
 
-Hello, Universe! This is Kaiser Hamid Rabbi, Software Engineer(Machine Learning) @TigerIT focuses on Biometric Research and end-to-end credential management
+Hello, Universe! This is Kaiser Hamid Rabbi, Software Engineer, ML @TigerIT focuses on Biometric Research and end-to-end credential management
 solutions. I am generally positively charged and always try to learn my lessons the hard way. I
 would characterize myself as both a Computer Scientist and a Machine Learning Engineer and
 in the past, I’ve tried many things before finding my way, before finding my passions. I’m an
